@@ -11,4 +11,6 @@ if the silkshot is in the red slot of wanderer with any silk ability use up+abil
 The more you charge it more damage it will do 
 Maximum is 5x damage with the charge of 6s
 
+Move all the files from assets to the plugins/GojoSilkshot folder with the dll 
+
 ![Demonstration of the mod](gif/khann.gif)
