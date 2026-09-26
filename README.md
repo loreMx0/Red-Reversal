@@ -9,6 +9,6 @@ if the silkshot is the only thing equipped,old the ability button + 2 extra fing
 if the silkshot is in the red slot of wanderer with any silk ability use up+ability/cast+1 extra finger else where to charge 
 
 The more you charge it more damage it will do 
-Maximum is 5x damage with the charge of 
+Maximum is 5x damage with the charge of 6s
 
 ![Demonstration of the mod](gif/khann.gif)
