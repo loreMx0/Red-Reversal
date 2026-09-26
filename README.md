@@ -5,7 +5,7 @@ How to use?
 2.Normally using it would change its sprites 
 3.To charge it 3 finger should be used 
 for eg.
-if the silkshot is the only thing equipped,old the ability button + 2 extra finger else where to charge it
+if the silkshot is the only thing equipped,hold the ability button + 2 extra finger else where to charge it
 if the silkshot is in the red slot of wanderer with any silk ability use up+ability/cast+1 extra finger else where to charge 
 
 The more you charge it more damage it will do 
